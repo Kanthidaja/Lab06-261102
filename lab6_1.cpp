@@ -11,7 +11,7 @@ int main(){
         }
         if(x%2==1 && x != 0){
             odd = odd+1;
-        }
+        }   
     }
     cout << "#Even numbers = " << even << endl;
     cout << "#Odd numbers = " << odd;
